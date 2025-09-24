@@ -1,5 +1,6 @@
-# CXAI3D-2: Explaining 3D Semantic Segmentation through Generative AI-based Counterfactuals
-This repository contains the implementation of **CXAI3D**, a generative framework for counterfactual explanations in **3D semantic segmentation**.
+# Generative 3D Point Cloud Counterfactuals: Explaining 3D Semantic Segmentation through Generative AI-based Counterfactuals
+This repository contains the implementation of **Explaining 3D Semantic Segmentation through Generative AI-based Counterfactuals**, a generative framework for counterfactual explanations in **3D semantic segmentation**.
+
 The framework introduces a **latent-space navigation approach** to generate counterfactuals for 3D point cloud models. By leveraging **autoencoder-based latent representations**, **UMAP embeddings**, and **graph traversal (Delaunay triangulation + shortest-path search)**, the method produces counterfactual point clouds that remain both **geometrically plausible** and **semantically meaningful**.
 
 <div align="center">
